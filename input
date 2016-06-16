@@ -1,0 +1,23 @@
+
+int idMain() {
+
+	int idA = 1;
+	int idB = 2;
+
+	while(idA <= 5){
+	print idA;
+	idA = idA + 1;
+
+	}
+
+	if(idA == 5){
+	break;
+	}else{
+	print idA;
+	}
+
+	print idA + idB;
+
+
+    return 0;
+}

@@ -1,0 +1,15 @@
+#Flex
+#Yacc
+#C++
+
+This is a simple compiler.
+Run it with this command "./calc inputfilename"
+You will get output.s and just use SPIM to excute it.
+
+functions:
+
+I/O
+calc
+if-else
+while
+
